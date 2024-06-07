@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okoyenta Evaristus
-- 👀 I’m interested in in Backend development
-- 🌱 I’m currently working with nodejs, expressjs, mongoDb, passport, restful api 
+- 👀 I’m a fullstack Software Engineer (with interest User interface design)
+- 🌱 I’m currently working with nodejs, expressjs, mongoDb, passport, restful api, firebase, netlify, reactJs, tailwindCss, rollUp js 
 - 📫 How to reach me on twitter
 
 <!---
